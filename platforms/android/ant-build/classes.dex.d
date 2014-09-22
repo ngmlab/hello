@@ -6,4 +6,6 @@
 /Users/nilskohl/ngm/git/hello/platforms/android/ant-build/classes/com/example/hello/R$string.class \
 /Users/nilskohl/ngm/git/hello/platforms/android/ant-build/classes/com/example/hello/R$xml.class \
 /Users/nilskohl/ngm/git/hello/platforms/android/ant-build/classes/com/example/hello/R.class \
+/Users/nilskohl/ngm/git/hello/platforms/android/ant-build/classes/org/apache/cordova/devicemotion/AccelListener$1.class \
+/Users/nilskohl/ngm/git/hello/platforms/android/ant-build/classes/org/apache/cordova/devicemotion/AccelListener.class \
 /Users/nilskohl/ngm/git/hello/platforms/android/ant-build/dexedLibs/classes-898bc36438af88f16a88e077e7165a57.jar \
