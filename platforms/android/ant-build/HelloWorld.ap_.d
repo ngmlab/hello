@@ -47,6 +47,7 @@
 /Users/nilskohl/ngm/git/hello/platforms/android/assets/www/img/logo.png \
 /Users/nilskohl/ngm/git/hello/platforms/android/assets/www/js/Acceleration.js \
 /Users/nilskohl/ngm/git/hello/platforms/android/assets/www/js/index_old.js \
+/Users/nilskohl/ngm/git/hello/platforms/android/assets/www/js/MainComponent.js \
 /Users/nilskohl/ngm/git/hello/platforms/android/assets/www/plugins/org.apache.cordova.device-motion \
 /Users/nilskohl/ngm/git/hello/platforms/android/assets/www/plugins/org.apache.cordova.device-motion/www \
 /Users/nilskohl/ngm/git/hello/platforms/android/assets/www/plugins/org.apache.cordova.device-motion/www/Acceleration.js \
